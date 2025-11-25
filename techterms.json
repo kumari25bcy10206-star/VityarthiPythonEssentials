@@ -1,0 +1,1442 @@
+{
+    "python": {
+        "meaning": "High-level programming language known for simplicity",
+        "example": "Python is used in web development and data science",
+        "synonyms": ["programming", "coding"]
+    },
+    "javascript": {
+        "meaning": "Scripting language for web interactivity",
+        "example": "JavaScript runs in all modern web browsers",
+        "synonyms": ["JS", "scripting"]
+    },
+    "java": {
+        "meaning": "Object-oriented programming language",
+        "example": "Java applications run on any platform with JVM",
+        "synonyms": ["OOP", "enterprise"]
+    },
+    "c++": {
+        "meaning": "Extension of C with object-oriented features",
+        "example": "C++ is used for system software and games",
+        "synonyms": ["C plus plus", "OOP"]
+    },
+    "csharp": {
+        "meaning": "Microsoft programming language for .NET framework",
+        "example": "C# is used for Windows applications and games",
+        "synonyms": ["C#", "dotnet"]
+    },
+    "ruby": {
+        "meaning": "Dynamic object-oriented scripting language",
+        "example": "Ruby on Rails is a popular web framework",
+        "synonyms": ["scripting", "dynamic"]
+    },
+    "go": {
+        "meaning": "Statically typed language developed by Google",
+        "example": "Go is known for its simplicity and concurrency features",
+        "synonyms": ["Golang", "concurrent"]
+    },
+    "swift": {
+        "meaning": "Apple's programming language for iOS development",
+        "example": "Swift replaces Objective-C for Apple platforms",
+        "synonyms": ["Apple", "iOS"]
+    },
+    "kotlin": {
+        "meaning": "Modern language that runs on Java Virtual Machine",
+        "example": "Kotlin is officially supported for Android development",
+        "synonyms": ["Android", "JVM"]
+    },
+    "rust": {
+        "meaning": "System programming language focusing on safety",
+        "example": "Rust prevents memory errors at compile time",
+        "synonyms": ["systems", "safe"]
+    },
+    "php": {
+        "meaning": "Server-side scripting language for web development",
+        "example": "PHP powers many content management systems",
+        "synonyms": ["web", "scripting"]
+    },
+    "typescript": {
+        "meaning": "JavaScript with static type checking",
+        "example": "TypeScript helps catch errors during development",
+        "synonyms": ["TS", "typed JS"]
+    },
+    "scala": {
+        "meaning": "Language combining object-oriented and functional programming",
+        "example": "Scala runs on the Java Virtual Machine",
+        "synonyms": ["JVM", "functional"]
+    },
+    "r": {
+        "meaning": "Programming language for statistical computing",
+        "example": "R is widely used in data analysis and research",
+        "synonyms": ["statistics", "analysis"]
+    },
+    "perl": {
+        "meaning": "High-level dynamic programming language",
+        "example": "Perl is strong in text processing tasks",
+        "synonyms": ["scripting", "text processing"]
+    },
+    "haskell": {
+        "meaning": "Purely functional programming language",
+        "example": "Haskell uses lazy evaluation and strong typing",
+        "synonyms": ["functional", "lazy"]
+    },
+    "lua": {
+        "meaning": "Lightweight scripting language for embedding",
+        "example": "Lua is often used in game development",
+        "synonyms": ["embedded", "scripting"]
+    },
+    "matlab": {
+        "meaning": "Programming platform for numerical computing",
+        "example": "MATLAB is used in engineering and scientific research",
+        "synonyms": ["numerical", "computation"]
+    },
+    "assembly": {
+        "meaning": "Low-level programming language close to machine code",
+        "example": "Assembly language provides direct hardware control",
+        "synonyms": ["low-level", "machine"]
+    },
+    "fortran": {
+        "meaning": "First high-level programming language for scientific computing",
+        "example": "Fortran is still used in scientific applications",
+        "synonyms": ["scientific", "numerical"]
+    },
+    "cobol": {
+        "meaning": "Business-oriented programming language",
+        "example": "COBOL powers many legacy financial systems",
+        "synonyms": ["business", "legacy"]
+    },
+    "dart": {
+        "meaning": "Language for web and mobile app development",
+        "example": "Dart is used with Flutter framework",
+        "synonyms": ["Flutter", "Google"]
+    },
+    "elixir": {
+        "meaning": "Functional language running on Erlang virtual machine",
+        "example": "Elixir is known for concurrency and fault tolerance",
+        "synonyms": ["functional", "concurrent"]
+    },
+    "clojure": {
+        "meaning": "Modern Lisp dialect running on JVM",
+        "example": "Clojure emphasizes functional programming",
+        "synonyms": ["Lisp", "functional"]
+    },
+    "fsharp": {
+        "meaning": "Functional-first language for .NET platform",
+        "example": "F# combines functional and object-oriented features",
+        "synonyms": ["functional", "dotnet"]
+    },
+    "objective-c": {
+        "meaning": "Object-oriented language used for Apple platforms",
+        "example": "Objective-C was the main language for iOS/Mac development",
+        "synonyms": ["Apple", "OOP"]
+    },
+    "shell": {
+        "meaning": "Command language for operating system control",
+        "example": "Shell scripts automate system administration tasks",
+        "synonyms": ["scripting", "automation"]
+    },
+    "sql": {
+        "meaning": "Structured Query Language for database management",
+        "example": "SQL queries retrieve and manipulate database records",
+        "synonyms": ["query", "database"]
+    },
+    "html": {
+        "meaning": "HyperText Markup Language for web content",
+        "example": "HTML defines the structure of web pages",
+        "synonyms": ["markup", "structure"]
+    },
+    "css": {
+        "meaning": "Cascading Style Sheets for web presentation",
+        "example": "CSS controls the visual appearance of websites",
+        "synonyms": ["styling", "design"]
+    },
+    "react": {
+        "meaning": "JavaScript library for building user interfaces",
+        "example": "React uses component-based architecture for web apps",
+        "synonyms": ["UI", "components"]
+    },
+    "angular": {
+        "meaning": "TypeScript-based web application framework",
+        "example": "Angular provides full-featured framework for enterprise apps",
+        "synonyms": ["framework", "TypeScript"]
+    },
+    "vue": {
+        "meaning": "Progressive JavaScript framework for building UIs",
+        "example": "Vue is known for its gentle learning curve",
+        "synonyms": ["framework", "progressive"]
+    },
+    "nodejs": {
+        "meaning": "JavaScript runtime built on Chrome's V8 engine",
+        "example": "Node.js enables server-side JavaScript development",
+        "synonyms": ["JavaScript", "runtime"]
+    },
+    "express": {
+        "meaning": "Minimal web framework for Node.js applications",
+        "example": "Express simplifies building web servers with Node.js",
+        "synonyms": ["framework", "minimal"]
+    },
+    "django": {
+        "meaning": "High-level Python web framework",
+        "example": "Django follows model-template-view architecture",
+        "synonyms": ["Python", "framework"]
+    },
+    "flask": {
+        "meaning": "Lightweight Python web framework",
+        "example": "Flask provides simplicity and flexibility for web apps",
+        "synonyms": ["Python", "microframework"]
+    },
+    "spring": {
+        "meaning": "Java framework for enterprise applications",
+        "example": "Spring provides comprehensive infrastructure support",
+        "synonyms": ["Java", "enterprise"]
+    },
+    "laravel": {
+        "meaning": "PHP web framework with elegant syntax",
+        "example": "Laravel includes built-in features for common web tasks",
+        "synonyms": ["PHP", "framework"]
+    },
+    "rubyonrails": {
+        "meaning": "Server-side web application framework in Ruby",
+        "example": "Rails follows convention over configuration principle",
+        "synonyms": ["Ruby", "framework"]
+    },
+    "aspnet": {
+        "meaning": "Microsoft framework for building web applications",
+        "example": "ASP.NET is used for enterprise web solutions",
+        "synonyms": ["Microsoft", "framework"]
+    },
+    "jquery": {
+        "meaning": "JavaScript library simplifying HTML manipulation",
+        "example": "jQuery makes DOM manipulation and AJAX easier",
+        "synonyms": ["JavaScript", "library"]
+    },
+    "bootstrap": {
+        "meaning": "Front-end framework for responsive design",
+        "example": "Bootstrap provides pre-built components for rapid development",
+        "synonyms": ["CSS", "framework"]
+    },
+    "sass": {
+        "meaning": "CSS preprocessor with advanced features",
+        "example": "Sass adds variables and nesting to CSS",
+        "synonyms": ["preprocessor", "CSS"]
+    },
+    "webpack": {
+        "meaning": "Module bundler for JavaScript applications",
+        "example": "Webpack bundles and optimizes web assets",
+        "synonyms": ["bundler", "JavaScript"]
+    },
+    "babel": {
+        "meaning": "JavaScript compiler for converting modern JS to older versions",
+        "example": "Babel enables using latest JavaScript features today",
+        "synonyms": ["compiler", "transpiler"]
+    },
+    "rest": {
+        "meaning": "Architectural style for web service design",
+        "example": "REST APIs use HTTP methods for resource operations",
+        "synonyms": ["API", "architecture"]
+    },
+    "graphql": {
+        "meaning": "Query language for APIs developed by Facebook",
+        "example": "GraphQL allows clients to request specific data fields",
+        "synonyms": ["query", "API"]
+    },
+    "websocket": {
+        "meaning": "Protocol for full-duplex communication over TCP",
+        "example": "WebSocket enables real-time web applications",
+        "synonyms": ["protocol", "realtime"]
+    },
+    "ajax": {
+        "meaning": "Asynchronous JavaScript and XML for dynamic web apps",
+        "example": "AJAX enables updating web pages without reloading",
+        "synonyms": ["asynchronous", "dynamic"]
+    },
+    "json": {
+        "meaning": "JavaScript Object Notation for data interchange",
+        "example": "JSON is lightweight and human-readable data format",
+        "synonyms": ["data format", "interchange"]
+    },
+    "xml": {
+        "meaning": "Extensible Markup Language for structured data",
+        "example": "XML is used for configuration files and data storage",
+        "synonyms": ["markup", "structured"]
+    },
+    "api": {
+        "meaning": "Application Programming Interface for software communication",
+        "example": "APIs enable different software systems to interact",
+        "synonyms": ["interface", "integration"]
+    },
+    "http": {
+        "meaning": "Hypertext Transfer Protocol for web communication",
+        "example": "HTTP is the foundation of web data exchange",
+        "synonyms": ["protocol", "web"]
+    },
+    "https": {
+        "meaning": "Secure version of HTTP with encryption",
+        "example": "HTTPS protects data integrity and confidentiality",
+        "synonyms": ["secure", "encrypted"]
+    },
+    "ssl": {
+        "meaning": "Secure Sockets Layer for encrypted connections",
+        "example": "SSL certificates enable secure web communications",
+        "synonyms": ["encryption", "security"]
+    },
+    "tls": {
+        "meaning": "Transport Layer Security successor to SSL",
+        "example": "TLS provides secure communication over computer networks",
+        "synonyms": ["security", "protocol"]
+    },
+    "domain": {
+        "meaning": "Human-readable web address identifying websites",
+        "example": "Domains like google.com point to web servers",
+        "synonyms": ["address", "website"]
+    },
+    "hosting": {
+        "meaning": "Service providing server space for websites",
+        "example": "Web hosting makes websites accessible on internet",
+        "synonyms": ["service", "server"]
+    },
+    "deployment": {
+        "meaning": "Process of making web applications live",
+        "example": "Deployment involves transferring code to production servers",
+        "synonyms": ["release", "production"]
+    },
+    "responsive": {
+        "meaning": "Design approach for multi-device compatibility",
+        "example": "Responsive websites adapt to different screen sizes",
+        "synonyms": ["adaptive", "design"]
+    },
+    "ux": {
+        "meaning": "User Experience design focusing on user satisfaction",
+        "example": "Good UX design improves user engagement and retention",
+        "synonyms": ["experience", "design"]
+    },
+    "ui": {
+        "meaning": "User Interface design for interactive elements",
+        "example": "UI design focuses on visual appearance and interactivity",
+        "synonyms": ["interface", "design"]
+    },
+    "wireframe": {
+        "meaning": "Basic visual guide representing page structure",
+        "example": "Wireframes outline layout before detailed design",
+        "synonyms": ["blueprint", "layout"]
+    },
+    "prototype": {
+        "meaning": "Working model of website for testing",
+        "example": "Prototypes help validate design concepts early",
+        "synonyms": ["model", "mockup"]
+    },
+    "frontend": {
+        "meaning": "Client-side part of web application",
+        "example": "Frontend development involves HTML, CSS, and JavaScript",
+        "synonyms": ["client-side", "browser"]
+    },
+    "backend": {
+        "meaning": "Server-side part of web application",
+        "example": "Backend development handles data processing and storage",
+        "synonyms": ["server-side", "logic"]
+    },
+    "fullstack": {
+        "meaning": "Development of both frontend and backend",
+        "example": "Fullstack developers work on complete web applications",
+        "synonyms": ["end-to-end", "complete"]
+    },
+    "encryption": {
+        "meaning": "Process of converting data to secure format",
+        "example": "Encryption protects sensitive information from unauthorized access",
+        "synonyms": ["encoding", "ciphering"]
+    },
+    "firewall": {
+        "meaning": "Network security system controlling traffic",
+        "example": "Firewalls filter network traffic based on security rules",
+        "synonyms": ["security", "filter"]
+    },
+    "malware": {
+        "meaning": "Malicious software designed to harm systems",
+        "example": "Malware includes viruses, worms, and trojan horses",
+        "synonyms": ["virus", "threat"]
+    },
+    "phishing": {
+        "meaning": "Fraudulent attempt to obtain sensitive information",
+        "example": "Phishing attacks often use deceptive emails",
+        "synonyms": ["social engineering", "fraud"]
+    },
+    "authentication": {
+        "meaning": "Process of verifying user identity",
+        "example": "Authentication ensures only authorized users access systems",
+        "synonyms": ["verification", "login"]
+    },
+    "authorization": {
+        "meaning": "Process of granting access permissions",
+        "example": "Authorization determines what users can do after authentication",
+        "synonyms": ["permissions", "access"]
+    },
+    "vulnerability": {
+        "meaning": "Weakness in system security controls",
+        "example": "Vulnerabilities can be exploited by attackers",
+        "synonyms": ["weakness", "flaw"]
+    },
+    "patch": {
+        "meaning": "Software update fixing security vulnerabilities",
+        "example": "Patches address known security issues in software",
+        "synonyms": ["update", "fix"]
+    },
+    "antivirus": {
+        "meaning": "Software designed to detect and remove malware",
+        "example": "Antivirus programs protect against virus infections",
+        "synonyms": ["protection", "security"]
+    },
+    "ransomware": {
+        "meaning": "Malware that encrypts files for extortion",
+        "example": "Ransomware demands payment to restore access to files",
+        "synonyms": ["malware", "extortion"]
+    },
+    "trojan": {
+        "meaning": "Malware disguised as legitimate software",
+        "example": "Trojans create backdoors for unauthorized access",
+        "synonyms": ["malware", "backdoor"]
+    },
+    "worm": {
+        "meaning": "Self-replicating malware spreading through networks",
+        "example": "Worms can spread rapidly without user interaction",
+        "synonyms": ["malware", "replication"]
+    },
+    "spyware": {
+        "meaning": "Malware that secretly monitors user activity",
+        "example": "Spyware collects personal information without consent",
+        "synonyms": ["malware", "monitoring"]
+    },
+    "adware": {
+        "meaning": "Software that displays unwanted advertisements",
+        "example": "Adware often comes bundled with free software",
+        "synonyms": ["malware", "advertising"]
+    },
+    "botnet": {
+        "meaning": "Network of compromised computers controlled remotely",
+        "example": "Botnets can be used for DDoS attacks and spamming",
+        "synonyms": ["network", "zombies"]
+    },
+    "ddos": {
+        "meaning": "Distributed Denial of Service attack overwhelming servers",
+        "example": "DDoS attacks make services unavailable to users",
+        "synonyms": ["attack", "overload"]
+    },
+    "bruteforce": {
+        "meaning": "Attack trying all possible password combinations",
+        "example": "Brute force attacks systematically guess credentials",
+        "synonyms": ["attack", "password"]
+    },
+    "socialengineering": {
+        "meaning": "Manipulating people to divulge confidential information",
+        "example": "Social engineering bypasses technical security controls",
+        "synonyms": ["manipulation", "deception"]
+    },
+    "zero-day": {
+        "meaning": "Vulnerability unknown to software vendor",
+        "example": "Zero-day exploits attack vulnerabilities before patches exist",
+        "synonyms": ["vulnerability", "exploit"]
+    },
+    "penetrationtesting": {
+        "meaning": "Authorized simulated cyber attacks",
+        "example": "Penetration testing identifies security weaknesses",
+        "synonyms": ["security testing", "ethical hacking"]
+    },
+    "incidentresponse": {
+        "meaning": "Process for handling security breaches",
+        "example": "Incident response plans help manage security incidents",
+        "synonyms": ["response", "breach"]
+    },
+    "forensics": {
+        "meaning": "Scientific analysis of digital evidence",
+        "example": "Digital forensics investigates cyber crimes and incidents",
+        "synonyms": ["investigation", "evidence"]
+    },
+    "compliance": {
+        "meaning": "Adherence to legal and regulatory requirements",
+        "example": "Compliance ensures organizations meet security standards",
+        "synonyms": ["regulations", "standards"]
+    },
+    "gdpr": {
+        "meaning": "General Data Protection Regulation for data privacy",
+        "example": "GDPR protects EU citizens' personal data",
+        "synonyms": ["regulation", "privacy"]
+    },
+    "hipaa": {
+        "meaning": "Health Insurance Portability and Accountability Act",
+        "example": "HIPAA sets standards for protecting health information",
+        "synonyms": ["regulation", "healthcare"]
+    },
+    "pci-dss": {
+        "meaning": "Payment Card Industry Data Security Standard",
+        "example": "PCI-DSS secures credit card transactions",
+        "synonyms": ["standard", "payments"]
+    },
+    "multifactor": {
+        "meaning": "Authentication using multiple verification methods",
+        "example": "Multi-factor authentication requires password plus code",
+        "synonyms": ["MFA", "2FA"]
+    },
+    "biometrics": {
+        "meaning": "Authentication using physical characteristics",
+        "example": "Fingerprint and facial recognition are biometric methods",
+        "synonyms": ["physical", "authentication"]
+    },
+    "vpn": {
+        "meaning": "Virtual Private Network for secure remote access",
+        "example": "VPNs encrypt internet connections for privacy",
+        "synonyms": ["private network", "encryption"]
+    },
+    "ids": {
+        "meaning": "Intrusion Detection System monitoring for threats",
+        "example": "IDS systems alert administrators about suspicious activity",
+        "synonyms": ["detection", "monitoring"]
+    },
+    "ips": {
+        "meaning": "Intrusion Prevention System blocking threats",
+        "example": "IPS systems automatically block detected attacks",
+        "synonyms": ["prevention", "blocking"]
+    },
+    "siem": {
+        "meaning": "Security Information and Event Management system",
+        "example": "SIEM aggregates and analyzes security event data",
+        "synonyms": ["management", "monitoring"]
+    },
+    "soc": {
+        "meaning": "Security Operations Center for threat monitoring",
+        "example": "SOC teams monitor and respond to security incidents",
+        "synonyms": ["operations", "monitoring"]
+    },
+    "cryptography": {
+        "meaning": "Science of secure communication techniques",
+        "example": "Cryptography provides mathematical foundations for security",
+        "synonyms": ["encryption", "mathematics"]
+    },
+    "hashing": {
+        "meaning": "Converting data to fixed-size string using algorithms",
+        "example": "Password hashing stores credentials securely",
+        "synonyms": ["digest", "one-way"]
+    },
+    "salt": {
+        "meaning": "Random data added to passwords before hashing",
+        "example": "Salting prevents rainbow table attacks on passwords",
+        "synonyms": ["random", "protection"]
+    },
+    "pki": {
+        "meaning": "Public Key Infrastructure for digital certificates",
+        "example": "PKI enables secure electronic transactions",
+        "synonyms": ["infrastructure", "certificates"]
+    },
+    "aes": {
+        "meaning": "Advanced Encryption Standard symmetric algorithm",
+        "example": "AES is widely used for secure data encryption",
+        "synonyms": ["encryption", "algorithm"]
+    },
+    "rsa": {
+        "meaning": "Public-key cryptosystem for secure data transmission",
+        "example": "RSA is used for digital signatures and key exchange",
+        "synonyms": ["encryption", "asymmetric"]
+    },
+    "quantum": {
+        "meaning": "Computing using quantum-mechanical phenomena",
+        "example": "Quantum computers could break current encryption",
+        "synonyms": ["computing", "future"]
+    },
+    "blockchain": {
+        "meaning": "Distributed ledger technology for secure transactions",
+        "example": "Blockchain provides tamper-resistant record keeping",
+        "synonyms": ["ledger", "distributed"]
+    },
+    "smartcontract": {
+        "meaning": "Self-executing contract with terms in code",
+        "example": "Smart contracts automatically enforce agreement terms",
+        "synonyms": ["contract", "automated"]
+    },
+    "machinelearning": {
+        "meaning": "Algorithms that learn patterns from data",
+        "example": "Machine learning enables computers to learn without programming",
+        "synonyms": ["ML", "AI"]
+    },
+    "dataset": {
+        "meaning": "Collection of data used for analysis",
+        "example": "Datasets are fundamental for training machine learning models",
+        "synonyms": ["data", "collection"]
+    },
+    "algorithm": {
+        "meaning": "Step-by-step procedure for calculations",
+        "example": "Algorithms process data and make predictions in ML",
+        "synonyms": ["procedure", "method"]
+    },
+    "neuralnetwork": {
+        "meaning": "Computing system inspired by biological brains",
+        "example": "Neural networks excel at pattern recognition tasks",
+        "synonyms": ["AI", "network"]
+    },
+    "datamining": {
+        "meaning": "Extracting patterns from large datasets",
+        "example": "Data mining discovers hidden insights in data",
+        "synonyms": ["analysis", "discovery"]
+    },
+    "supervisedlearning": {
+        "meaning": "ML trained with labeled input-output pairs",
+        "example": "Supervised learning needs training data with known answers",
+        "synonyms": ["labeled", "training"]
+    },
+    "unsupervisedlearning": {
+        "meaning": "ML finding patterns in unlabeled data",
+        "example": "Unsupervised learning discovers natural groupings in data",
+        "synonyms": ["unguided", "clustering"]
+    },
+    "reinforcementlearning": {
+        "meaning": "ML learning through trial and error",
+        "example": "Reinforcement learning uses rewards to guide learning",
+        "synonyms": ["reward-based", "learning"]
+    },
+    "training": {
+        "meaning": "Teaching ML models with historical data",
+        "example": "Model training adjusts parameters to minimize errors",
+        "synonyms": ["learning", "teaching"]
+    },
+    "testing": {
+        "meaning": "Evaluating ML model performance on new data",
+        "example": "Testing measures how well models generalize to unseen data",
+        "synonyms": ["evaluation", "validation"]
+    },
+    "overfitting": {
+        "meaning": "When model learns training data too specifically",
+        "example": "Overfitting reduces model performance on new data",
+        "synonyms": ["memorization", "overtraining"]
+    },
+    "underfitting": {
+        "meaning": "When model fails to learn data patterns",
+        "example": "Underfitting shows poor performance on both training and test data",
+        "synonyms": ["underlearning", "simple"]
+    },
+    "feature": {
+        "meaning": "Input variable used for making predictions",
+        "example": "Features represent characteristics of the data",
+        "synonyms": ["attribute", "variable"]
+    },
+    "label": {
+        "meaning": "Output variable being predicted in supervised learning",
+        "example": "Labels are the target values for prediction",
+        "synonyms": ["target", "output"]
+    },
+    "regression": {
+        "meaning": "Predicting continuous numerical values",
+        "example": "Regression models predict prices, temperatures, etc.",
+        "synonyms": ["prediction", "continuous"]
+    },
+    "classification": {
+        "meaning": "Categorizing data into discrete classes",
+        "example": "Classification models identify spam, fraud, categories",
+        "synonyms": ["categorization", "discrete"]
+    },
+    "clustering": {
+        "meaning": "Grouping similar data points together",
+        "example": "Clustering finds natural groupings without predefined labels",
+        "synonyms": ["grouping", "segmentation"]
+    },
+    "dimensionality": {
+        "meaning": "Reducing number of random variables",
+        "example": "Dimensionality reduction simplifies complex datasets",
+        "synonyms": ["reduction", "simplification"]
+    },
+    "crossvalidation": {
+        "meaning": "Technique for assessing model performance",
+        "example": "Cross-validation provides robust performance estimates",
+        "synonyms": ["validation", "assessment"]
+    },
+    "precision": {
+        "meaning": "Measure of model accuracy for positive predictions",
+        "example": "Precision calculates true positives among positive predictions",
+        "synonyms": ["accuracy", "metric"]
+    },
+    "recall": {
+        "meaning": "Measure of model ability to find all positives",
+        "example": "Recall calculates true positives among actual positives",
+        "synonyms": ["sensitivity", "metric"]
+    },
+    "f1score": {
+        "meaning": "Harmonic mean of precision and recall",
+        "example": "F1 score balances both precision and recall",
+        "synonyms": ["metric", "balance"]
+    },
+    "accuracy": {
+        "meaning": "Proportion of correct predictions overall",
+        "example": "Accuracy measures total correct predictions",
+        "synonyms": ["correctness", "metric"]
+    },
+    "confusionmatrix": {
+        "meaning": "Table showing prediction performance",
+        "example": "Confusion matrices visualize classification results",
+        "synonyms": ["matrix", "performance"]
+    },
+    "roc": {
+        "meaning": "Receiver Operating Characteristic curve",
+        "example": "ROC curves show trade-off between sensitivity and specificity",
+        "synonyms": ["curve", "performance"]
+    },
+    "auc": {
+        "meaning": "Area Under ROC Curve measuring model performance",
+        "example": "AUC provides single number summarizing ROC curve",
+        "synonyms": ["area", "metric"]
+    },
+    "gradientdescent": {
+        "meaning": "Optimization algorithm for minimizing errors",
+        "example": "Gradient descent iteratively adjusts model parameters",
+        "synonyms": ["optimization", "minimization"]
+    },
+    "backpropagation": {
+        "meaning": "Algorithm for training neural networks",
+        "example": "Backpropagation calculates gradient for weight updates",
+        "synonyms": ["training", "neural"]
+    },
+    "tensor": {
+        "meaning": "Multi-dimensional array for numerical computation",
+        "example": "Tensors are fundamental data structures in deep learning",
+        "synonyms": ["array", "multidimensional"]
+    },
+    "pandas": {
+        "meaning": "Python library for data manipulation and analysis",
+        "example": "Pandas provides data structures for efficient data handling",
+        "synonyms": ["library", "Python"]
+    },
+    "numpy": {
+        "meaning": "Python library for numerical computations",
+        "example": "NumPy provides support for large multi-dimensional arrays",
+        "synonyms": ["numerical", "Python"]
+    },
+    "matplotlib": {
+        "meaning": "Python library for creating visualizations",
+        "example": "Matplotlib produces static, animated, and interactive plots",
+        "synonyms": ["plotting", "visualization"]
+    },
+    "scikit": {
+        "meaning": "Python machine learning library",
+        "example": "Scikit-learn provides tools for data mining and analysis",
+        "synonyms": ["ML", "Python"]
+    },
+    "tensorflow": {
+        "meaning": "Open-source platform for machine learning",
+        "example": "TensorFlow is widely used for deep learning applications",
+        "synonyms": ["framework", "ML"]
+    },
+    "pytorch": {
+        "meaning": "Open-source machine learning library",
+        "example": "PyTorch is popular for research and development",
+        "synonyms": ["library", "ML"]
+    },
+    "keras": {
+        "meaning": "High-level neural networks API",
+        "example": "Keras simplifies building and training deep learning models",
+        "synonyms": ["API", "neural"]
+    },
+    "jupyter": {
+        "meaning": "Web-based interactive computing platform",
+        "example": "Jupyter notebooks allow interactive data analysis",
+        "synonyms": ["notebook", "interactive"]
+    },
+    "bigdata": {
+        "meaning": "Extremely large datasets requiring special processing",
+        "example": "Big data technologies handle volume, velocity, and variety",
+        "synonyms": ["large", "massive"]
+    },
+    "hadoop": {
+        "meaning": "Framework for distributed storage and processing",
+        "example": "Hadoop enables processing of large datasets across clusters",
+        "synonyms": ["distributed", "framework"]
+    },
+    "spark": {
+        "meaning": "Unified engine for large-scale data processing",
+        "example": "Spark provides fast in-memory data processing capabilities",
+        "synonyms": ["processing", "engine"]
+    },
+    "hive": {
+        "meaning": "Data warehouse infrastructure built on Hadoop",
+        "example": "Hive provides SQL-like interface for big data",
+        "synonyms": ["warehouse", "SQL"]
+    },
+    "kafka": {
+        "meaning": "Distributed event streaming platform",
+        "example": "Kafka handles real-time data feeds and streams",
+        "synonyms": ["streaming", "platform"]
+    },
+    "linux": {
+        "meaning": "Open-source Unix-like operating system",
+        "example": "Linux powers most web servers and supercomputers",
+        "synonyms": ["Unix", "open source"]
+    },
+    "windows": {
+        "meaning": "Microsoft's proprietary operating system",
+        "example": "Windows dominates the desktop computer market",
+        "synonyms": ["Microsoft", "proprietary"]
+    },
+    "macos": {
+        "meaning": "Apple's operating system for Mac computers",
+        "example": "macOS is known for its user-friendly interface",
+        "synonyms": ["Apple", "proprietary"]
+    },
+    "unix": {
+        "meaning": "Family of multitasking operating systems",
+        "example": "Unix influenced many modern operating systems",
+        "synonyms": ["family", "multitasking"]
+    },
+    "kernel": {
+        "meaning": "Core component of operating system",
+        "example": "The kernel manages hardware resources and processes",
+        "synonyms": ["core", "engine"]
+    },
+    "process": {
+        "meaning": "Program in execution with its own memory space",
+        "example": "Each running application is represented by a process",
+        "synonyms": ["program", "execution"]
+    },
+    "thread": {
+        "meaning": "Lightweight unit of CPU utilization within process",
+        "example": "Threads enable concurrent execution within applications",
+        "synonyms": ["concurrent", "execution"]
+    },
+    "scheduling": {
+        "meaning": "OS deciding which process runs on CPU",
+        "example": "CPU scheduling algorithms optimize system performance",
+        "synonyms": ["allocation", "planning"]
+    },
+    "memory": {
+        "meaning": "Computer's workspace for running programs",
+        "example": "Memory management allocates and tracks memory usage",
+        "synonyms": ["RAM", "storage"]
+    },
+    "virtualmemory": {
+        "meaning": "Technique extending physical memory using disk",
+        "example": "Virtual memory allows running large programs efficiently",
+        "synonyms": ["extension", "technique"]
+    },
+    "filesystem": {
+        "meaning": "Method for storing and organizing files",
+        "example": "File systems manage data storage on storage devices",
+        "synonyms": ["storage", "organization"]
+    },
+    "devicedriver": {
+        "meaning": "Software enabling OS communication with hardware",
+        "example": "Device drivers translate OS commands to hardware actions",
+        "synonyms": ["hardware", "interface"]
+    },
+    "gui": {
+        "meaning": "Graphical User Interface with visual elements",
+        "example": "GUIs make operating systems user-friendly through visuals",
+        "synonyms": ["graphical", "interface"]
+    },
+    "multitasking": {
+        "meaning": "Running multiple processes concurrently",
+        "example": "Multitasking allows efficient CPU utilization",
+        "synonyms": ["concurrent", "multiple"]
+    },
+    "multithreading": {
+        "meaning": "Multiple threads executing within process",
+        "example": "Multithreading improves application responsiveness",
+        "synonyms": ["threads", "concurrent"]
+    },
+    "deadlock": {
+        "meaning": "Situation where processes wait for each other",
+        "example": "Deadlocks occur when processes circularly wait for resources",
+        "synonyms": ["stall", "wait"]
+    },
+    "interrupt": {
+        "meaning": "Signal to processor requiring immediate attention",
+        "example": "Interrupts handle time-critical events in OS",
+        "synonyms": ["signal", "event"]
+    },
+    "buffer": {
+        "meaning": "Temporary storage area for data transfer",
+        "example": "Buffers smooth data flow between different speed devices",
+        "synonyms": ["storage", "temporary"]
+    },
+    "cache": {
+        "meaning": "High-speed memory storing frequently accessed data",
+        "example": "Caches reduce average data access time",
+        "synonyms": ["fast", "memory"]
+    },
+    "boot": {
+        "meaning": "Process of starting up computer system",
+        "example": "Booting loads OS into memory and initializes system",
+        "synonyms": ["startup", "initialization"]
+    },
+    "bios": {
+        "meaning": "Basic Input/Output System firmware",
+        "example": "BIOS initializes hardware during boot process",
+        "synonyms": ["firmware", "initialization"]
+    },
+    "uefi": {
+        "meaning": "Unified Extensible Firmware Interface modern BIOS",
+        "example": "UEFI provides improved security and features over BIOS",
+        "synonyms": ["firmware", "modern"]
+    },
+    "registry": {
+        "meaning": "Database storing Windows configuration settings",
+        "example": "Windows Registry contains system and application settings",
+        "synonyms": ["database", "configuration"]
+    },
+    "daemon": {
+        "meaning": "Background process handling system services",
+        "example": "Daemons perform tasks without user interaction in Unix",
+        "synonyms": ["background", "service"]
+    },
+    "sudo": {
+        "meaning": "Command granting temporary superuser privileges",
+        "example": "Sudo allows authorized users to run commands as root",
+        "synonyms": ["privilege", "admin"]
+    },
+    "permission": {
+        "meaning": "Access rights for files and system resources",
+        "example": "Permissions control who can read, write, or execute files",
+        "synonyms": ["rights", "access"]
+    },
+    "mysql": {
+        "meaning": "Popular open-source relational database system",
+        "example": "MySQL is widely used for web applications",
+        "synonyms": ["RDBMS", "relational"]
+    },
+    "postgresql": {
+        "meaning": "Advanced open-source object-relational database",
+        "example": "PostgreSQL supports complex queries and transactions",
+        "synonyms": ["ORDBMS", "advanced"]
+    },
+    "mongodb": {
+        "meaning": "Document-based NoSQL database",
+        "example": "MongoDB stores data in flexible JSON-like documents",
+        "synonyms": ["NoSQL", "document"]
+    },
+    "oracle": {
+        "meaning": "Commercial relational database management system",
+        "example": "Oracle Database is used in large enterprise environments",
+        "synonyms": ["RDBMS", "enterprise"]
+    },
+    "sqlserver": {
+        "meaning": "Microsoft's relational database management system",
+        "example": "SQL Server integrates well with other Microsoft products",
+        "synonyms": ["RDBMS", "Microsoft"]
+    },
+    "sqlite": {
+        "meaning": "Lightweight disk-based database library",
+        "example": "SQLite doesn't require separate server process",
+        "synonyms": ["embedded", "lightweight"]
+    },
+    "redis": {
+        "meaning": "In-memory data structure store used as database",
+        "example": "Redis is often used for caching and real-time applications",
+        "synonyms": ["in-memory", "cache"]
+    },
+    "cassandra": {
+        "meaning": "Distributed NoSQL database for large datasets",
+        "example": "Cassandra handles massive amounts of data across clusters",
+        "synonyms": ["NoSQL", "distributed"]
+    },
+    "table": {
+        "meaning": "Collection of related data in database",
+        "example": "Tables organize data into rows and columns",
+        "synonyms": ["relation", "collection"]
+    },
+    "row": {
+        "meaning": "Single record in database table",
+        "example": "Each row represents one complete data entry",
+        "synonyms": ["record", "tuple"]
+    },
+    "column": {
+        "meaning": "Field in database table storing specific data",
+        "example": "Columns define the attributes stored for each record",
+        "synonyms": ["field", "attribute"]
+    },
+    "query": {
+        "meaning": "Request for data from database",
+        "example": "Queries retrieve, update, or manipulate database contents",
+        "synonyms": ["request", "retrieval"]
+    },
+    "index": {
+        "meaning": "Database structure for faster data retrieval",
+        "example": "Indexes improve query performance on frequently searched columns",
+        "synonyms": ["optimization", "pointer"]
+    },
+    "primarykey": {
+        "meaning": "Unique identifier for database records",
+        "example": "Primary keys ensure each record can be uniquely identified",
+        "synonyms": ["identifier", "unique"]
+    },
+    "foreignkey": {
+        "meaning": "Field linking to another table's primary key",
+        "example": "Foreign keys establish relationships between tables",
+        "synonyms": ["reference", "relationship"]
+    },
+    "join": {
+        "meaning": "Combining data from multiple database tables",
+        "example": "Joins combine related data from different tables",
+        "synonyms": ["combine", "merge"]
+    },
+    "normalization": {
+        "meaning": "Organizing database to reduce redundancy",
+        "example": "Normalization minimizes data duplication and inconsistency",
+        "synonyms": ["organization", "optimization"]
+    },
+    "transaction": {
+        "meaning": "Sequence of database operations as single unit",
+        "example": "Transactions ensure database consistency and reliability",
+        "synonyms": ["operation", "unit"]
+    },
+    "acid": {
+        "meaning": "Atomicity Consistency Isolation Durability properties",
+        "example": "ACID properties ensure reliable database transactions",
+        "synonyms": ["properties", "reliability"]
+    },
+    "nosql": {
+        "meaning": "Non-relational databases for unstructured data",
+        "example": "NoSQL databases provide flexibility for modern applications",
+        "synonyms": ["non-relational", "flexible"]
+    },
+    "orm": {
+        "meaning": "Object-Relational Mapping technique",
+        "example": "ORMs map database records to programming language objects",
+        "synonyms": ["mapping", "technique"]
+    },
+    "schema": {
+        "meaning": "Structure defining database organization",
+        "example": "Database schemas define tables, relationships, and constraints",
+        "synonyms": ["structure", "organization"]
+    },
+    "view": {
+        "meaning": "Virtual table based on query result",
+        "example": "Views present data from one or more tables as virtual tables",
+        "synonyms": ["virtual", "query"]
+    },
+    "storedprocedure": {
+        "meaning": "Precompiled database program",
+        "example": "Stored procedures encapsulate database logic on server side",
+        "synonyms": ["procedure", "program"]
+    },
+    "trigger": {
+        "meaning": "Database procedure automatically executed on events",
+        "example": "Triggers run automatically when data changes occur",
+        "synonyms": ["automated", "event"]
+    },
+    "backup": {
+        "meaning": "Copy of database for recovery purposes",
+        "example": "Regular backups protect against data loss",
+        "synonyms": ["copy", "recovery"]
+    },
+    "replication": {
+        "meaning": "Copying and synchronizing data across databases",
+        "example": "Replication provides redundancy and improves availability",
+        "synonyms": ["copying", "synchronization"]
+    },
+    "sharding": {
+        "meaning": "Horizontal partitioning of database across servers",
+        "example": "Sharding distributes data load across multiple machines",
+        "synonyms": ["partitioning", "distribution"]
+    },
+    "tcpip": {
+        "meaning": "Suite of communication protocols for internet",
+        "example": "TCP/IP enables reliable data transmission across networks",
+        "synonyms": ["protocol", "internet"]
+    },
+    "router": {
+        "meaning": "Network device forwarding data between networks",
+        "example": "Routers connect different networks and direct traffic",
+        "synonyms": ["device", "forwarding"]
+    },
+    "switch": {
+        "meaning": "Network device connecting devices within network",
+        "example": "Switches forward data to specific devices on local network",
+        "synonyms": ["device", "connecting"]
+    },
+    "protocol": {
+        "meaning": "Rules governing data transmission over network",
+        "example": "Protocols define how devices communicate on networks",
+        "synonyms": ["rules", "communication"]
+    },
+    "bandwidth": {
+        "meaning": "Maximum data transfer rate of network connection",
+        "example": "Bandwidth determines network capacity and speed",
+        "synonyms": ["capacity", "speed"]
+    },
+    "latency": {
+        "meaning": "Time delay in network communication",
+        "example": "Low latency is crucial for real-time applications",
+        "synonyms": ["delay", "response"]
+    },
+    "dns": {
+        "meaning": "Domain Name System translating names to IP addresses",
+        "example": "DNS resolves human-readable names to machine IPs",
+        "synonyms": ["resolution", "translation"]
+    },
+    "dhcp": {
+        "meaning": "Dynamic Host Configuration Protocol",
+        "example": "DHCP automatically assigns IP addresses to network devices",
+        "synonyms": ["protocol", "configuration"]
+    },
+    "ipaddress": {
+        "meaning": "Numerical label assigned to network devices",
+        "example": "IP addresses identify devices on networks",
+        "synonyms": ["address", "identifier"]
+    },
+    "ipv4": {
+        "meaning": "Internet Protocol version 4 with 32-bit addresses",
+        "example": "IPv4 provides about 4.3 billion unique addresses",
+        "synonyms": ["protocol", "version"]
+    },
+    "ipv6": {
+        "meaning": "Internet Protocol version 6 with 128-bit addresses",
+        "example": "IPv6 provides virtually unlimited address space",
+        "synonyms": ["protocol", "version"]
+    },
+    "subnet": {
+        "meaning": "Logical subdivision of IP network",
+        "example": "Subnets improve network security and performance",
+        "synonyms": ["division", "logical"]
+    },
+    "gateway": {
+        "meaning": "Network node connecting different networks",
+        "example": "Gateways serve as entry/exit points between networks",
+        "synonyms": ["node", "connection"]
+    },
+    "lan": {
+        "meaning": "Local Area Network covering small geographic area",
+        "example": "LANs connect devices within building or campus",
+        "synonyms": ["local", "network"]
+    },
+    "wan": {
+        "meaning": "Wide Area Network covering large geographic area",
+        "example": "WANs connect multiple LANs across large distances",
+        "synonyms": ["wide", "network"]
+    },
+    "man": {
+        "meaning": "Metropolitan Area Network covering city area",
+        "example": "MANs provide networking across metropolitan regions",
+        "synonyms": ["metropolitan", "network"]
+    },
+    "packet": {
+        "meaning": "Formatted unit of data transmitted over network",
+        "example": "Packets contain payload data and control information",
+        "synonyms": ["unit", "data"]
+    },
+    "ethernet": {
+        "meaning": "Family of wired networking technologies",
+        "example": "Ethernet is widely used for local area networks",
+        "synonyms": ["technology", "wired"]
+    },
+    "wifi": {
+        "meaning": "Wireless networking technology using radio waves",
+        "example": "WiFi enables wireless internet connectivity",
+        "synonyms": ["wireless", "radio"]
+    },
+    "bluetooth": {
+        "meaning": "Wireless technology for short-range communication",
+        "example": "Bluetooth connects devices like headphones and phones",
+        "synonyms": ["wireless", "short-range"]
+    },
+    "nat": {
+        "meaning": "Network Address Translation technique",
+        "example": "NAT allows multiple devices to share single public IP",
+        "synonyms": ["translation", "technique"]
+    },
+    "port": {
+        "meaning": "Network communication endpoint",
+        "example": "Ports identify specific applications or services on devices",
+        "synonyms": ["endpoint", "identifier"]
+    },
+    "socket": {
+        "meaning": "Endpoint for sending/receiving data across network",
+        "example": "Sockets enable network communication between applications",
+        "synonyms": ["endpoint", "communication"]
+    },
+    "agile": {
+        "meaning": "Iterative approach to software development",
+        "example": "Agile methodologies emphasize flexibility and customer collaboration",
+        "synonyms": ["iterative", "flexible"]
+    },
+    "scrum": {
+        "meaning": "Agile framework for team collaboration",
+        "example": "Scrum uses sprints and daily standups for project management",
+        "synonyms": ["framework", "methodology"]
+    },
+    "waterfall": {
+        "meaning": "Sequential software development methodology",
+        "example": "Waterfall follows linear phases from requirements to maintenance",
+        "synonyms": ["sequential", "linear"]
+    },
+    "versioncontrol": {
+        "meaning": "System tracking changes to source code",
+        "example": "Git is the most popular version control system",
+        "synonyms": ["source control", "revision"]
+    },
+    "git": {
+        "meaning": "Distributed version control system",
+        "example": "Git enables collaborative software development",
+        "synonyms": ["VCS", "distributed"]
+    },
+    "github": {
+        "meaning": "Platform for hosting Git repositories",
+        "example": "GitHub facilitates code sharing and collaboration",
+        "synonyms": ["platform", "hosting"]
+    },
+    "debugging": {
+        "meaning": "Finding and fixing errors in code",
+        "example": "Debugging tools help identify and resolve software defects",
+        "synonyms": ["troubleshooting", "fixing"]
+    },
+    "refactoring": {
+        "meaning": "Restructuring code without changing behavior",
+        "example": "Refactoring improves code quality and maintainability",
+        "synonyms": ["restructuring", "cleaning"]
+    },
+    "testing": {
+        "meaning": "Process of verifying software functionality",
+        "example": "Testing ensures software meets requirements and works correctly",
+        "synonyms": ["verification", "QA"]
+    },
+    "tdd": {
+        "meaning": "Test-Driven Development methodology",
+        "example": "TDD writes tests before implementing functionality",
+        "synonyms": ["test-first", "methodology"]
+    },
+    "ci": {
+        "meaning": "Continuous Integration automating build and test",
+        "example": "CI runs automated tests on every code change",
+        "synonyms": ["integration", "automation"]
+    },
+    "cd": {
+        "meaning": "Continuous Delivery/Deployment automating release",
+        "example": "CD automates deployment to various environments",
+        "synonyms": ["delivery", "automation"]
+    },
+    "devops": {
+        "meaning": "Culture combining development and operations",
+        "example": "DevOps aims to shorten development lifecycle",
+        "synonyms": ["culture", "practices"]
+    },
+    "codereview": {
+        "meaning": "Examination of code by other developers",
+        "example": "Code reviews improve code quality and knowledge sharing",
+        "synonyms": ["inspection", "examination"]
+    },
+    "pairprogramming": {
+        "meaning": "Two developers working together at one workstation",
+        "example": "Pair programming reduces defects and improves design",
+        "synonyms": ["collaborative", "teamwork"]
+    },
+    "technicaldebt": {
+        "meaning": "Implied cost of additional rework from quick solutions",
+        "example": "Technical debt accumulates when taking shortcuts",
+        "synonyms": ["debt", "rework"]
+    },
+    "legacycode": {
+        "meaning": "Old code that is difficult to maintain",
+        "example": "Legacy code often lacks tests and documentation",
+        "synonyms": ["old", "outdated"]
+    },
+    "documentation": {
+        "meaning": "Written information about software",
+        "example": "Good documentation helps developers understand and use software",
+        "synonyms": ["docs", "manual"]
+    },
+    "requirement": {
+        "meaning": "Description of what software should do",
+        "example": "Requirements define features and constraints for development",
+        "synonyms": ["specification", "need"]
+    },
+    "design": {
+        "meaning": "Planning software structure and architecture",
+        "example": "Good design creates maintainable and scalable software",
+        "synonyms": ["planning", "architecture"]
+    },
+    "implementation": {
+        "meaning": "Writing actual code for software",
+        "example": "Implementation turns design into working software",
+        "synonyms": ["coding", "development"]
+    },
+    "deployment": {
+        "meaning": "Releasing software to production environment",
+        "example": "Deployment makes software available to end users",
+        "synonyms": ["release", "production"]
+    },
+    "maintenance": {
+        "meaning": "Updating and improving existing software",
+        "example": "Maintenance fixes bugs and adds features to deployed software",
+        "synonyms": ["upkeep", "updates"]
+    },
+    "aws": {
+        "meaning": "Amazon Web Services cloud platform",
+        "example": "AWS provides comprehensive cloud computing services",
+        "synonyms": ["Amazon", "platform"]
+    },
+    "azure": {
+        "meaning": "Microsoft's cloud computing platform",
+        "example": "Azure offers integrated cloud services for enterprises",
+        "synonyms": ["Microsoft", "platform"]
+    },
+    "gcp": {
+        "meaning": "Google Cloud Platform",
+        "example": "GCP provides Google's cloud infrastructure and services",
+        "synonyms": ["Google", "platform"]
+    },
+    "iaas": {
+        "meaning": "Infrastructure as a Service cloud model",
+        "example": "IaaS provides virtualized computing resources over internet",
+        "synonyms": ["infrastructure", "service"]
+    },
+    "paas": {
+        "meaning": "Platform as a Service cloud model",
+        "example": "PaaS provides platform for developing and deploying applications",
+        "synonyms": ["platform", "service"]
+    },
+    "saas": {
+        "meaning": "Software as a Service cloud model",
+        "example": "SaaS delivers software applications over internet",
+        "synonyms": ["software", "service"]
+    },
+    "virtualization": {
+        "meaning": "Creating virtual versions of computing resources",
+        "example": "Virtualization enables multiple OS on single hardware",
+        "synonyms": ["virtual", "emulation"]
+    },
+    "container": {
+        "meaning": "Lightweight standalone executable software package",
+        "example": "Containers package applications with dependencies",
+        "synonyms": ["package", "isolated"]
+    },
+    "docker": {
+        "meaning": "Platform for developing shipping and running containers",
+        "example": "Docker simplifies container creation and management",
+        "synonyms": ["container", "platform"]
+    },
+    "kubernetes": {
+        "meaning": "Container orchestration system",
+        "example": "Kubernetes automates container deployment and scaling",
+        "synonyms": ["orchestration", "management"]
+    },
+    "microservices": {
+        "meaning": "Architectural style with small independent services",
+        "example": "Microservices enable scalable and maintainable systems",
+        "synonyms": ["services", "modular"]
+    },
+    "serverless": {
+        "meaning": "Cloud computing execution model without server management",
+        "example": "Serverless automatically manages infrastructure scaling",
+        "synonyms": ["model", "scaling"]
+    },
+    "vm": {
+        "meaning": "Virtual Machine emulating complete computer system",
+        "example": "VMs run operating systems on virtualized hardware",
+        "synonyms": ["virtual", "emulation"]
+    },
+    "loadbalancing": {
+        "meaning": "Distributing network traffic across multiple servers",
+        "example": "Load balancing improves application performance and reliability",
+        "synonyms": ["distribution", "balancing"]
+    },
+    "autoscaling": {
+        "meaning": "Automatically adjusting resources based on demand",
+        "example": "Autoscaling maintains performance during traffic spikes",
+        "synonyms": ["automatic", "scaling"]
+    },
+    "region": {
+        "meaning": "Geographic area containing cloud infrastructure",
+        "example": "Cloud regions provide services in specific locations",
+        "synonyms": ["geographic", "area"]
+    },
+    "availabilityzone": {
+        "meaning": "Isolated location within cloud region",
+        "example": "Availability zones provide fault tolerance within regions",
+        "synonyms": ["isolation", "fault"]
+    },
+    "cdn": {
+        "meaning": "Content Delivery Network for distributed content delivery",
+        "example": "CDNs cache content closer to users for faster access",
+        "synonyms": ["delivery", "network"]
+    },
+    "storage": {
+        "meaning": "Cloud data storage services",
+        "example": "Cloud storage provides scalable and durable data storage",
+        "synonyms": ["data", "persistent"]
+    },
+    "android": {
+        "meaning": "Mobile operating system by Google",
+        "example": "Android powers majority of smartphones worldwide",
+        "synonyms": ["OS", "Google"]
+    },
+    "ios": {
+        "meaning": "Mobile operating system by Apple",
+        "example": "iOS runs on iPhones and iPads",
+        "synonyms": ["OS", "Apple"]
+    },
+    "reactnative": {
+        "meaning": "Framework for building mobile apps with React",
+        "example": "React Native creates cross-platform mobile applications",
+        "synonyms": ["framework", "cross-platform"]
+    },
+    "flutter": {
+        "meaning": "UI toolkit for natively compiled applications",
+        "example": "Flutter builds iOS and Android apps from single codebase",
+        "synonyms": ["toolkit", "cross-platform"]
+    },
+    "xcode": {
+        "meaning": "IDE for developing Apple platform applications",
+        "example": "Xcode is used for iOS and macOS app development",
+        "synonyms": ["IDE", "Apple"]
+    },
+    "androidstudio": {
+        "meaning": "Official IDE for Android development",
+        "example": "Android Studio provides tools for building Android apps",
+        "synonyms": ["IDE", "Android"]
+    },
+    "apk": {
+        "meaning": "Android application package file format",
+        "example": "APK files contain Android app installation packages",
+        "synonyms": ["package", "Android"]
+    },
+    "ipa": {
+        "meaning": "iOS application archive file format",
+        "example": "IPA files contain iOS app installation packages",
+        "synonyms": ["package", "iOS"]
+    },
+    "emulator": {
+        "meaning": "Software mimicking mobile device on computer",
+        "example": "Emulators test mobile apps without physical devices",
+        "synonyms": ["simulator", "testing"]
+    },
+    "sdk": {
+        "meaning": "Software Development Kit for mobile platforms",
+        "example": "SDKs provide tools and libraries for mobile app development",
+        "synonyms": ["kit", "tools"]
+    },
+    "responsive": {
+        "meaning": "Mobile design adapting to different screen sizes",
+        "example": "Responsive design ensures good user experience on mobile",
+        "synonyms": ["adaptive", "design"]
+    },
+    "touch": {
+        "meaning": "Interface designed for finger interaction",
+        "example": "Touch interfaces require different design than mouse interfaces",
+        "synonyms": ["interface", "finger"]
+    },
+    "gesture": {
+        "meaning": "Motion used to interact with touch devices",
+        "example": "Gestures like swipe and pinch enable intuitive mobile interaction",
+        "synonyms": ["motion", "interaction"]
+    },
+    "notification": {
+        "meaning": "Alert system for mobile applications",
+        "example": "Notifications keep users informed about app events",
+        "synonyms": ["alert", "system"]
+    },
+    "offline": {
+        "meaning": "Functionality without internet connection",
+        "example": "Offline capabilities improve mobile app usability",
+        "synonyms": ["disconnected", "capability"]
+    },
+    "performance": {
+        "meaning": "Speed and responsiveness of mobile applications",
+        "example": "Good performance is crucial for mobile user satisfaction",
+        "synonyms": ["speed", "responsiveness"]
+    },
+    "battery": {
+        "meaning": "Power consumption considerations for mobile apps",
+        "example": "Mobile apps should optimize battery usage",
+        "synonyms": ["power", "consumption"]
+    }
+}
