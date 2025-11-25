@@ -43,17 +43,18 @@ cd technical-dictionary
 
 ## Screenshots
 ### Main Menu
-(screenshots/main-menu-screenshot.png)
+(main-menu-screenshot.png)
 *Main menu with all available options*
 
 ### Search Feature
-(screenshots/search-screenshot.png)
+(search-screenshot.png)
 *Searching for technical terms*
 
 ### Add New Word
-(screenshots/add-screenshot.png)
+(add-screenshot.png)
 *Adding new terms to the dictionary*
 
 ### View All Words
-(screenshots/view-all-screenshot.png)
+(view-all-screenshot.png)
 *Viewing all stored technical terms*
+
